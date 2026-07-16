@@ -9,9 +9,6 @@
 ![License](https://img.shields.io/badge/License-Academic-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-**Mini Project – I** · B.E. Electronics and Communication Engineering
-Vasavi College of Engineering (Autonomous), Hyderabad · 2024–2025
-
 </div>
 
 ---
