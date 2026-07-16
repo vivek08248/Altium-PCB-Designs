@@ -1,7 +1,5 @@
 # PCB Designing Using Altium Designer
 
-Mini Project - I, B.E. Electronics and Communication Engineering, Vasavi College of Engineering (Autonomous), Hyderabad (2024-2025).
-
 Two PCB designs built end-to-end in Altium Designer - schematic capture, footprint assignment, routing, DRC/ERC, Gerbers, and 3D views - covering both single-layer and multi-layer workflows.
 
 Full write-up: [`docs/Project_Report.pdf`](docs/Project_Report.pdf) | Slides: [`docs/Project_Presentation.pptx`](docs/Project_Presentation.pptx)
