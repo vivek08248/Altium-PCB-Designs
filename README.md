@@ -196,6 +196,6 @@ All checks passed and both designs were approved for fabrication; manufacturing 
 
 <div align="center">
 
-Built with ❤️ using Altium Designer
+Built using Altium Designer
 
 </div>
