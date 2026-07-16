@@ -86,4 +86,4 @@ Altium-PCB-Designs
 
 ## Authors
 
-B. Praneeth Reddy, G. Rohit Reddy, C. Vivek - ECE Department
+B. Praneeth Reddy, G. Rohit Reddy, C. Vivek
