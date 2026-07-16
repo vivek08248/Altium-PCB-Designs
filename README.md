@@ -190,10 +190,9 @@ All checks passed and both designs were approved for fabrication; manufacturing 
 9. [Espressif — ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
 10. [Neil Kolban — Kolban's Book on ESP32](https://leanpub.com/kolban-ESP32)
 
-## Team
+## Authors
 
-**B. Praneeth Reddy** · **G. Rohit Reddy** · **C. Vivek**
-Department of Electronics and Communication Engineering, Vasavi College of Engineering (Autonomous), Hyderabad
+**B. Praneeth Reddy** · **G. Rohit Reddy** · **C. Vivek** 
 
 <div align="center">
 
