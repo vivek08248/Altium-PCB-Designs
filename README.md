@@ -2,13 +2,6 @@
 
 # PCB Designing Using Altium Designer
 
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-ED1C24?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-FF6600?style=for-the-badge&logo=Proteus&logoColor=white)
-![Gerber](https://img.shields.io/badge/Gerber-RS--274X-2E8B57?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Academic-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-
 </div>
 
 ---
