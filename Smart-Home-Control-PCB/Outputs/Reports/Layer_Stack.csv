@@ -1,0 +1,27 @@
+﻿Board Layer Stack
+Number,Name,Type,Manufacturer,Material,Process,Thickness (mil),Weight (oz),Dk,Df,Orientation,Copper Orientation,Pullback distance (mil),Description,Constructions,Resin (%),Frequency (GHz),GlassTransTemp (°F)
+,Top Overlay,Overlay,,,,,,,,,,,,,,,
+,Top Solder,Solder Mask,,Solder Resist,,0.4,,3.5,,,,,,,,,
+1,Top Layer,Signal,,,,1.4,1,,,Top,Above,,,,,,
+,Dielectric 4,Prepreg,Altium Designer,PP-006,,2.8,,4.1,0.02,,,,,1080,62,1,356
+2,GND,Signal,Altium Designer,CF-004,ED,1.378,1,,,Not allowed,Above,,Copper Foil,,,,
+,Dielectric 2,Prepreg,Altium Designer,PP-006,,2.8,,4.1,0.02,,,,,1080,62,1,356
+3,5V,Plane,Altium Designer,CF-004,ED,1.378,1,,,,Above,20,Copper Foil,,,,
+,Dielectric 1,Dielectric,,FR-4,,12.6,,4.8,,,,,,,,,
+4,3.3V,Plane,Altium Designer,CF-004,ED,1.378,1,,,,Above,20,Copper Foil,,,,
+,Dielectric 3,Prepreg,Altium Designer,PP-006,,2.8,,4.1,0.02,,,,,1080,62,1,356
+5,Layer 4,Signal,Altium Designer,CF-004,ED,1.378,1,,,Not allowed,Above,,Copper Foil,,,,
+,Dielectric 5,Prepreg,Altium Designer,PP-006,,2.8,,4.1,0.02,,,,,1080,62,1,356
+6,Bottom Layer,Signal,,,,1.4,1,,,Bottom,Below,,,,,,
+,Bottom Solder,Solder Mask,,Solder Resist,,0.4,,3.5,,,,,,,,,
+,Bottom Overlay,Overlay,,,,,,,,,,,,,,,
+
+
+No impedances
+
+Via types
+#,Name,Type,Layers,Stack
+1,Thru 1:6,Thru,Top Layer-Bottom Layer,Board Layer Stack
+
+
+No back drills

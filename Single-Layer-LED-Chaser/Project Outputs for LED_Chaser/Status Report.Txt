@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LED_Chaser.PrjPcb]
+   Generated File[LED_Chaser.TXT]
+   Generated File[LED_Chaser.LDP]
+   Generated File[LED_Chaser.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:18:06 On 16-07-2026

@@ -1,0 +1,40 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LED_Chaser.PrjPcb]
+   Generated File[LED_Chaser_Legend_Top.gbr]
+   Generated File[LED_Chaser_Paste_Top.gbr]
+   Generated File[LED_Chaser_Soldermask_Top.gbr]
+   Generated File[LED_Chaser_Copper_Signal_Top.gbr]
+   Generated File[LED_Chaser_Copper_Signal_Bot.gbr]
+   Generated File[LED_Chaser_Soldermask_Bot.gbr]
+   Generated File[LED_Chaser_Paste_Bot.gbr]
+   Generated File[LED_Chaser_Legend_Bot.gbr]
+   Generated File[LED_Chaser_Mechanical_1.gbr]
+   Generated File[LED_Chaser_Top_Designator.gbr]
+   Generated File[LED_Chaser_Bottom_Designator.gbr]
+   Generated File[LED_Chaser_Top_Assembly.gbr]
+   Generated File[LED_Chaser_Top_Component_Outline.gbr]
+   Generated File[LED_Chaser_Bottom_Component_Outline.gbr]
+   Generated File[LED_Chaser_Top_3D_Body.gbr]
+   Generated File[LED_Chaser_Bottom_3D_Body.gbr]
+   Generated File[LED_Chaser_Top_Courtyard.gbr]
+   Generated File[LED_Chaser_Bottom_Courtyard.gbr]
+   Generated File[LED_Chaser_Top_Component_Center.gbr]
+   Generated File[LED_Chaser_Bottom_Component_Center.gbr]
+   Generated File[LED_Chaser_Bottom_Assembly.gbr]
+   Generated File[LED_Chaser_Keep-out.gbr]
+   Generated File[LED_Chaser_Pads_Top.gbr]
+   Generated File[LED_Chaser_Pads_Bot.gbr]
+   Generated File[LED_Chaser_Other.gbr]
+   Generated File[LED_Chaser_Other_1.gbr]
+   Generated File[LED_Chaser_Drawing_1.gbr]
+   Generated File[LED_Chaser_Drillmap_1.gbr]
+   Generated File[LED_Chaser_Profile.gbr]
+   Generated File[LED_Chaser.EXTREP]
+   Generated File[LED_Chaser.REP]
+
+
+Files Generated   : 31
+Documents Printed : 0
+
+Finished Output Generation At 14:15:14 On 16-07-2026

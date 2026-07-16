@@ -1,0 +1,43 @@
+# Altium Designer Generated Files
+
+History/
+__Previews/
+
+*.bak
+*.log
+*.tmp
+*.rep
+*.htm
+*.html
+
+# Workspace Files
+*.DsnWrk
+*.PrjPcbStructure
+
+# CAM Outputs
+*.cam
+*.apr_lib
+
+# Auto Save
+*.AutoSave
+
+# Generated Reports
+*.RUL
+*.EXTREP
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+
+# Temporary folders
+Temp/
+temp/
+
+# Altium cache
+*.cache
